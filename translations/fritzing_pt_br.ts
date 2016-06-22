@@ -437,7 +437,7 @@
     </message>
     <message>
         <source>Copy to Sketch</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Copiar para</translation>
     </message>
     <message>
         <source>Copy all the parts in the bin to a sketch</source>
@@ -2644,7 +2644,7 @@ Por favor verifique em todos os modos de visualização para verificar alguma mo
     </message>
     <message>
         <source>Export the current sketch to Extended Gerber format (RS-274X) for professional PCB production</source>
-        <translation>Exportar o desenho actual para o formato Extended Gerber (RS-274X) para produção profissional de PCB</translation>
+        <translation>Exportar o desenho atual para o formato Extended Gerber (RS-274X) para produção profissional de PCB</translation>
     </message>
     <message>
         <source>Unable to save BOM file, but the text is on the clipboard.</source>
@@ -2785,7 +2785,7 @@ Por favor verifique em todos os modos de visualização para verificar alguma mo
     </message>
     <message>
         <source>No Sketch found in &apos;%1&apos;</source>
-        <translation>Não foi encontrado Esquemáatico em &apos;%1&apos;</translation>
+        <translation>Não foi encontrado Esquemático em &apos;%1&apos;</translation>
     </message>
     <message>
         <source>Convert</source>
@@ -3197,7 +3197,7 @@ Ir em frente e desfazer?</translation>
     </message>
     <message>
         <source>How much would it could to produce a PCB from this sketch with Fritzing Fab</source>
-        <translation></translation>
+        <translation>Quanto custaria para produzir um PCB a partir desde Esquemático com Fritzing Fab?</translation>
     </message>
     <message>
         <source>Find part in sketch...</source>
@@ -3391,14 +3391,14 @@ Do you want to update now?</source>
     </message>
     <message numerus="yes">
         <source>There are %n outdated part(s) in this sketch. </source>
-        <translation type="unfinished">
+        <translation>Há %n parte(s) desatualizada(s) nesse esquemático.</translation>
             <numerusform></numerusform>
             <numerusform></numerusform>
         </translation>
     </message>
     <message>
         <source>Click to highlight unconnected parts</source>
-        <translation type="unfinished"></translation>
+        <translation>Clique para destacar partes desconectadas</translation>
     </message>
     <message>
         <source>Fabricate</source>
@@ -3406,11 +3406,11 @@ Do you want to update now?</source>
     </message>
     <message>
         <source>Welcome</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Bem-vinde!</translation>
     </message>
     <message>
         <source>Dump all parts</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">anslation>
     </message>
     <message>
         <source>Debug dump all parts in this view</source>
@@ -3426,7 +3426,7 @@ Do you want to update now?</source>
     </message>
     <message>
         <source>Show the welcome view</source>
-        <translation type="unfinished"></translation>
+        <translationi type="unfinished"></translation>
     </message>
     <message>
         <source>Display First Time Help</source>
